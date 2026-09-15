@@ -1,0 +1,8 @@
+{
+  "name": "minigost",
+  "private": true,
+  "description": "Учебный сайт: ГОСТы простым школьным языком",
+  "scripts": {
+    "build": "node build.js"
+  }
+}

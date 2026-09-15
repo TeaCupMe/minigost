@@ -1,0 +1,7 @@
+dist
+.git
+.cursor
+.vscode
+node_modules
+*.md
+agent-transcripts
