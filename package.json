@@ -1,7 +1,7 @@
 {
   "name": "minigost",
   "private": true,
-  "description": "Учебный сайт: ГОСТы простым школьным языком",
+  "description": "Учебный сайт: ГОСТы простым языком для студентов техвузов",
   "scripts": {
     "build": "node build.js"
   }
